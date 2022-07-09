@@ -38,7 +38,7 @@ $collection = (new MongoDB\Client)->lab->lab;
     </script>
 </head>
 <body>
-<p><strong>Мирошниченко Алина, КИУКИу-20-2, Лабораторная №2, Вариант 1<strong>
+<p>
 <form method="get" action="">
         <p>Вывести расписание лабораторных работ группы <select name="group" id="group" onchange="form1()">
             <?php
